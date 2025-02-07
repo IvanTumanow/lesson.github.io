@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Flex&display=swap');
+
+body{
+    font-family: "Roboto Flex", serif;
+}
+
+.nav-link{
+    color: #b9b9b9
+}
+
+.nav-link:hover{
+    color: #e1e1e1;
+}
+
+.navbar-nav .nav-link.active{
+    color: white;
+    font-weight: 500;
+}
+
+.navbar-brand{
+    width: 3em;
+}
+
+.navbar-brand img{
+    max-width: 100%;
+}
+
+.navbar-toggler{
+    background-color: gainsboro;
+}
+
+.navbar-text{
+    color: #e1e1e1;
+}
+
+.footer-text{
+    color: #e1e1e1;
+    padding-top: 1em;
+}
+
+.media-link{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card{
+    box-shadow: 0px 0px 10px 0px #858585;
+}

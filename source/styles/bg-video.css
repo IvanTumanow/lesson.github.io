@@ -1,0 +1,9 @@
+.bg-video{
+    text-align: center;
+}
+
+.bg-video video{
+    max-width: 80%;
+    margin: 1em;
+    box-shadow: 0px 0px 32px 1px #000000;
+}
